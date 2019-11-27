@@ -1,0 +1,27 @@
+*{
+	margin:0;
+}
+#red_text{color:red;
+	 font-family: "arial", sans-serif;
+	   position: relative;
+  top: 30px;
+  left:750px;
+}
+
+ #grey_text{color: #908f7e;
+	 font-family: "arial", sans-serif;
+	   position: absolute;
+bottom: 150px;
+  left:490px;
+
+ }
+
+ #white_text{color: #eae6ce;
+	 font-family: "arial", sans-serif;
+	   position: absolute;
+bottom: 150px;
+  left:700px;
+ }
+
+
+
