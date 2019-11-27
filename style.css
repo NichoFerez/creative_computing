@@ -1,0 +1,39 @@
+p{color:blue;
+  font: 15px arial, sans-serif;
+}
+h1{color:blue;
+  font: arial, sans-serif;
+}
+h2{color:blue;
+  font: arial, sans-serif;
+}
+h3{color:blue;
+  font: arial, sans-serif;
+}
+h4{color:blue;
+  font: arial, sans-serif;
+}
+body {
+    background-color: #93B874;
+}
+.box{
+	width:200px;
+	height:200px;
+	background-color:red;
+}
+#one{color:blue;
+  font: 40px arial, sans-serif;
+
+}
+#two{color:blue;
+  font: 25px arial, sans-serif;
+
+}
+#three{color:blue;
+  font: 20px arial, sans-serif;
+
+}
+#four{color:blue;
+  font: 15px arial, sans-serif;
+
+}

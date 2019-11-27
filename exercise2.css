@@ -1,0 +1,42 @@
+.green_text {color:green;
+
+}
+.blue_text{color:blue;
+
+}
+#red_text{color:red;
+
+}
+.fixed_size{
+	font-size: 50px;
+}
+.resonsive_size{
+	font-size:23vh;
+}
+.fixed_box{
+	width: 200px;
+	height:200px;
+background-color:blue;
+}
+.resonsive_box{
+ width:20vw;
+ height:20vh;
+ background-color:red;
+
+}
+#box_1{
+	margin: 0 auto 0 auto; 
+}
+#box_3:hover{background-color:blue;
+width:600px;
+}
+#box_4{
+ background-color:green;
+margin: 10px;
+padding:10px;
+border:10px;
+width:400px;
+height:400px;}
+#box_4:hover{background-color:magenta;
+transition: 1s;
+width:600px;}
