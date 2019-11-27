@@ -4,3 +4,11 @@
 .target{
 	background-color:yellow;
 }
+
+.circle{
+  width:25px;
+  height:25px;
+  background-color:blue;
+  border-radius:50%;
+  display:inline-block;
+}
