@@ -1,0 +1,17 @@
+.grid_parent{
+  z-index:-1;
+  position:absolute;
+  box-sizing:3px;
+  padding:30px;
+  width:3px;
+  height:3px;
+  display:grid;
+  grid-template-columns:300px 300px 300px;
+  grid-template-rows:3fr 3fr;
+  grid-gap:100px;
+  grid-template-areas:
+    "title  menu   menu"
+    ".      topic  sidebar"
+    "footer footer footer"
+}
+
