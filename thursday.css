@@ -39,10 +39,7 @@ position:absolute;
 .room1.show{
 	position:relative;
 z-index: 1;
-background-image:url(monday.jpg);
+background-image:url(thursday.jpg);
 background-size: contain;
 background-repeat: no-repeat;
 background-position:center;}
-
-
-
