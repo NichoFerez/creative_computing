@@ -1,0 +1,99 @@
+
+
+#lightoff-2{
+background-image: url("off.jpg");
+background-size:contain;
+background-repeat:no-repeat;
+height: 100%;
+width:100%;
+position:absolute;
+top:750px;
+right:600px;
+left:0px;
+
+
+}
+
+#lightoff-2.on{
+  background-image: url("on.jpg");
+}
+
+
+
+#light{
+position:relative;
+height:200px;
+width:200px;
+z-index:0.5;
+left:1150px;
+bottom: 1000px;
+}
+
+#lightoff{
+background-image: url("off.jpg");
+background-size:contain;
+background-repeat:no-repeat;
+height: 100%;
+width:100%;
+position:absolute;
+}
+
+
+#lightoff.on{
+	background-image: url("on.jpg");
+}
+
+
+.room{
+  width: 1000px;
+  height: 600px;
+  margin: 0px; 
+  padding: 0px;
+}
+
+.room2{
+  position:relative;
+  z-index:-1;
+  background-color: black;
+  width: 1000px;
+  height: 600px;
+  margin: 0px; 
+  padding: 0px;
+  top:100px;
+}
+
+.room2.show{
+  position:relative;
+z-index: 1;
+background-image:url(wednesday-2.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+background-position:center;}
+
+
+
+
+.room{
+  width: 1000px;
+  height: 600px;
+  margin: 0px; 
+  padding: 0px;
+}
+
+.room1{
+	position:relative;
+	z-index:-1;
+	background-color: black;
+  width: 1000px;
+  height: 600px;
+  margin: 0px; 
+  padding: 0px;
+}
+
+.room1.show{
+	position:relative;
+z-index: 1;
+background-image:url(wednesday-1.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+background-position:center;}
